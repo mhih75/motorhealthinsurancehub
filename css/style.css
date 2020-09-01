@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Port+Lligat+Sans&display=swap');
+@import url(//db.onlinewebfonts.com/c/e2fc7216bb89d4871d9aa4e1de793a5e?family=Barmeno);
 @font-face{
 	font-family: 'Caramelia';
 	src: url("../fonts/Caramelia.ttf"); 
@@ -317,7 +318,7 @@ footer p{
 	padding: 10px;
 }
 #text-1{
-	font-family: 'Caramelia', sans-serif;
+	font-family: 'Bermeno', sans-serif;
 	color: white;
 	font-weight: 600;
 	text-transform: uppercase;
